@@ -1,0 +1,14 @@
+[project]
+name = "comfyui-clipscore-nodes"
+description = "Nodes:ImageScore, Loader, Image Processor, Real Image Processor, Fake Image Processor, Text Processor. ComfyUI Nodes for ClipScore"
+version = "1.0.0"
+license = "LICENSE"
+
+[project.urls]
+Repository = "https://github.com/azure-dragon-ai/ComfyUI-ClipScore-Nodes"
+#  Used by Comfy Registry https://comfyregistry.org
+
+[tool.comfy]
+PublisherId = ""
+DisplayName = "ComfyUI-ClipScore-Nodes"
+Icon = ""
